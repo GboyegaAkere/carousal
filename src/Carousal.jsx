@@ -95,7 +95,7 @@ const Carousal = () => {
             <div>
               <h3>hello where are you from</h3>
               <button>this is me </button>
-              <p>i am not that bad na</p>
+              <p>i am not bad na</p>
             </div>
           </div>
           <div className='w-[50px] h-[110px] bg-red-800'>
