@@ -20,7 +20,7 @@ const Home = () => {
     <>  
       <div className='w-full h-[300px] px-5 md:px-[200px] mt-[100px] md:mt-[170px]'>
           <div className='w-full h-[107px] '>
-            <p >Recently Sold</p>
+            <p >Recently Traded</p>
               <div  className='cursor-grabbing'>
               <Slide />
               </div>
